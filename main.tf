@@ -1,3 +1,3 @@
 /**
- * # Application Load Balancer - Terraform Module
+ * Application Load Balancer - Terraform Module
  */
