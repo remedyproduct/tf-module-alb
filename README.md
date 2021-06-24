@@ -1,7 +1,7 @@
 # Usage
 
 <!--- BEGIN_TF_DOCS --->
-# Application Load Balancer - Terraform Module
+Application Load Balancer - Terraform Module
 
 ## Requirements
 
