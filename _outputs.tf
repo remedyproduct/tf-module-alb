@@ -7,7 +7,7 @@ output "https_listener" {
 }
 
 output "alb_security_group" {
-  value = = aws_security_group.main
+  value = aws_security_group.main
 }
 
 output "dns_name" {
