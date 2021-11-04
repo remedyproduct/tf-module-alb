@@ -31,7 +31,7 @@ resource "aws_lb_listener" "http" {
 }
 
 resource "aws_lb_listener" "https" {
-  count = var.acm_certificate_arn != null ? 1 : 0
+  count = var.https_only ? 1 : 0
 
   load_balancer_arn = aws_lb.main.id
   port              = 443
