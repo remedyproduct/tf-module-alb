@@ -45,6 +45,7 @@ No Modules.
 | Name | Description |
 |------|-------------|
 | alb\_security\_group | n/a |
+| aws\_lb\_arn | n/a |
 | dns\_name | n/a |
 | http\_listener | n/a |
 | https\_listener | n/a |
